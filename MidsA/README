@@ -1,0 +1,5 @@
+going through sortnames.csv and checking off on mids who did not fill the form out.. do so by:
+
+head -n 71 sortnames.csv | tail -27 | sort | wc
+
+then going to mids and looking through all of the names
