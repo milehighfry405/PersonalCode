@@ -3,3 +3,4 @@ WashingtonML/data-env/
 WashingtonML/include/
 WashingtonML/lib/
 WashingtonML/local/
+*.gl
